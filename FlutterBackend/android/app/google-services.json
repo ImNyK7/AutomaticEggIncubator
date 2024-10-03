@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457040472532",
+    "project_id": "iotbackend-696ca",
+    "storage_bucket": "iotbackend-696ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457040472532:android:f0c2efc34907d77d750e41",
+        "android_client_info": {
+          "package_name": "com.example.incubator_flutter_backend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457040472532-66c69c6atdl063e42gle0p9n4dq5m1v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUNIex-2frBQz8DlnnGJ5tFmbvD1_a4PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457040472532-66c69c6atdl063e42gle0p9n4dq5m1v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
